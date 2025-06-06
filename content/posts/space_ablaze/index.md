@@ -21,10 +21,6 @@ tags: ["Projects", "C++", "Raylib", "Game Development"]
 <br>
  Itch.io: https://dandee77.itch.io/space-ablaze
 
-Experience the blast from the past and dive into the world of retro with **SPACE ABLAZE**, where you will experience the thrill of a classic arcade. Space Ablaze is a survival and top-down shooter that uses simple joystick-like controls. 
-
-The game is set in the vastness of space, where you’ll face a relentless swarm of enemy battleships that grow more formidable with each passing moment. With a diverse array of enemies featuring unique attack patterns, you’ll need to stay on your toes.
-
 ## 🚀 Project Overview
 
 **Space Ablaze** is a 2D top-down survival shooter game developed using **C++** and the **Raylib** graphics library. The game throws the player into a hostile space environment swarming with alien ships. The objective is simple: survive as long as possible while taking down waves of enemies. With retro arcade aesthetics, responsive controls, and adrenaline-fueled action, Space Ablaze delivers a bite-sized but addictive gameplay experience.
@@ -73,8 +69,6 @@ The game window is initialized and managed through the Application class, define
 Rendering responsibilities are decoupled from the application logic and handled separately in game.cpp. This separation of concerns promotes a modular design, where the renderer is focused solely on drawing game objects, managing visual assets, and updating frames based on game state.
 
 By abstracting rendering logic into game.cpp, the system achieves better maintainability and scalability. The Application class delegates rendering tasks to the renderer, allowing high-level logic (such as state management and timing) to remain isolated from low-level graphics operations.
-
-This architecture adheres to the principles of abstraction and separation of concerns, enabling clear boundaries between the windowing system and rendering pipeline. It also facilitates easier debugging, testing, and future extensions to either system independently.
 <br>
 
 * **The Entity Class**
@@ -108,15 +102,12 @@ SpaceAblaze/
 The SpaceAblaze project is organized to maintain clarity, modularity, and ease of scalability. At its core, the src/ directory contains the game's source code, including the main entry point (main.cpp) and the implementation of key gameplay components such as the player, enemies, and bullets, each split into their respective .cpp and .h files to maintain separation of interface and implementation.
 
 Game assets are stored under the assets/ directory, with subfolders for sprites/ and sounds/, allowing for clean management of visual and audio resources. The build/ directory serves as the target for compiled binaries and intermediate files, keeping the working directory clean and focused. Project configuration is handled through CMakeLists.txt, supporting portable and scalable builds across systems. Additionally, the root-level README.md provides documentation and guidance for understanding, building, and running the project.
-
-This structure enforces a clear separation between code, assets, and build outputs, aligning with best practices for game development and making the codebase more maintainable and collaboration-friendly.
-
 <br>
 
 ## 🔧 Build & Run
 
 This project is organized for you to run the game from source without any hassle.
-Just this paste in your terminal:
+Just paste this in your terminal:
 ```bash
 build
 ```
