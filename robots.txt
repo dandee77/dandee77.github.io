@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://smmin21.github.io/sitemap.xml
