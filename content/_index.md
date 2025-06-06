@@ -1,10 +1,16 @@
 ---
-title: "Welcome to My Technical Blog! :tada:"
-description: "This is a first page of my technical blog."
+title: "Dan’s Dev Hub 🚀"
+description: "Showcasing my projects, growth, and insights as a future engineer."
 ---
 
-I'm a software engineer with a keen interest in server and artificial intelligence engineering. I thrive on exploring new technologies and embracing challenges, always enjoying the process of learning and building.
+I'm a 2nd-year Computer Engineering student at **Bulacan State University**, currently deep in my training arc — transitioning from C++ game development into full-stack web and mobile development.
 
-Additionally, I'm deeply fascinated by tools that enhance productivity. Actively exploring and implementing various tools and methods to optimize development processes and work efficiently is something I'm passionate about.
+I've always been passionate about building amazing things with code. With a strong foundation in programming — including **OOP**, **manual memory management**, and **data structures & algorithms** — I'm now expanding into **web technologies**, **mobile apps**, and **AI-powered systems**.
 
-On this blog, I'll be sharing my experiences with technical challenges, insights into new technologies, and a variety of tips and tricks for boosting productivity. Thank you for joining me on this journey of growth and learning! 🚀
+This site is where I document my journey:
+
+- ✅ **Projects** — what I built, how I built it, and what I learned
+- 🧠 **Insights** — lessons, tech breakdowns, and workflow optimizations
+- 🏆 **Milestones** — key wins and progress as I level up
+
+I'm all about learning fast, solving real problems, and constantly pushing my technical boundaries. Thanks for stopping by — let’s build something awesome. 🚀

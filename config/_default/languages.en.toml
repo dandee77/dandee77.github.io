@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Smmin21's Blog"
+title = "Dandee's Portfolio"
 
 [params]
   displayName = "EN"
@@ -14,12 +14,12 @@ title = "Smmin21's Blog"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [author]
-  name = "Hi, I'm Sumin Lee!"
+  name = "Hi, I'm Dandee N. Galang!"
   image = "img/my_char.png"
-  headline = "Welcome to my technical blog 👋"
-  bio = "software engineer"
+  headline = "Welcome to Portfolio blogs! 👋"
+  bio = "Computer Engineering Student"
   links = [
-    { email = "mailto:nstern999@gmail.com" },
+    { email = "dandeegalang.ph@gmail.com" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
@@ -31,7 +31,7 @@ title = "Smmin21's Blog"
 #     { facebook = "https://facebook.com/username" },
 #     { flickr = "https://www.flickr.com/photos/username/" },
 #     { foursquare = "https://foursquare.com/username" },
-    { github = "https://github.com/smmin21" },
+    { github = "https://github.com/dandee77" },
 #     { gitlab = "https://gitlab.com/username" },
 #     { google = "https://www.google.com/" },
 #     { hashnode = "https://username.hashnode.dev" },
@@ -39,7 +39,7 @@ title = "Smmin21's Blog"
 #     { keybase = "https://keybase.io/username" },
 #     { kickstarter = "https://www.kickstarter.com/profile/username" },
 #     { lastfm = "https://lastfm.com/user/username" },
-    { linkedin = "https://www.linkedin.com/in/sumin-lee-a790b1257" },
+    { linkedin = "https://www.linkedin.com/in/dandee77" },
 #     { mastodon = "https://mastodon.instance/@username" },
 #     { medium = "https://medium.com/username" },
 #     { microsoft = "https://www.microsoft.com/" },
