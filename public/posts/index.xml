@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Smmin21&#39;s Blog</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Smmin21&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 </copyright>
+    <lastBuildDate>Mon, 13 Jun 2022 20:55:37 +0100</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>스프링(Spring) 뜯어보기 : 클라이언트의 요청은 서버에서 어떻게 처리될까?</title>
+      <link>http://localhost:1313/posts/spring_overall/</link>
+      <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/spring_overall/</guid>
+      <description>스프링 부트를 사용하다 보면 사실 스프링 내부에서 어떤 동작이 이루어지는지 모르더라도 원하는 비즈니스 로직 구현을 할 수 있다.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/spring_overall/featured.png" />
+    </item>
+    
+    <item>
+      <title>트랜잭션과 락 이해하기 : 데이터베이스 관리의 핵심, 동시성과 무결성의 균형잡기</title>
+      <link>http://localhost:1313/posts/transaction_lock/</link>
+      <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/transaction_lock/</guid>
+      <description>한 유명 레스토랑에서 새로운 예약 시스템을 도입하여 매일 오후 5시마다 다음 날 예약 손님 50명을 받기로 결정했다.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/transaction_lock/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>

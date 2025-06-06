@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lock on Smmin21&#39;s Blog</title>
+    <link>http://localhost:1313/tags/lock/</link>
+    <description>Recent content in Lock on Smmin21&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 </copyright>
+    <lastBuildDate>Wed, 24 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/lock/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>트랜잭션과 락 이해하기 : 데이터베이스 관리의 핵심, 동시성과 무결성의 균형잡기</title>
+      <link>http://localhost:1313/posts/transaction_lock/</link>
+      <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/transaction_lock/</guid>
+      <description>한 유명 레스토랑에서 새로운 예약 시스템을 도입하여 매일 오후 5시마다 다음 날 예약 손님 50명을 받기로 결정했다.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/transaction_lock/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>

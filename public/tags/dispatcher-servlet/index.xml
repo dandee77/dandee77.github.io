@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dispatcher Servlet on Smmin21&#39;s Blog</title>
+    <link>http://localhost:1313/tags/dispatcher-servlet/</link>
+    <description>Recent content in Dispatcher Servlet on Smmin21&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 </copyright>
+    <lastBuildDate>Wed, 03 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/dispatcher-servlet/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>스프링(Spring) 뜯어보기 : 클라이언트의 요청은 서버에서 어떻게 처리될까?</title>
+      <link>http://localhost:1313/posts/spring_overall/</link>
+      <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/spring_overall/</guid>
+      <description>스프링 부트를 사용하다 보면 사실 스프링 내부에서 어떤 동작이 이루어지는지 모르더라도 원하는 비즈니스 로직 구현을 할 수 있다.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/spring_overall/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Smmin21&#39;s Blog</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Smmin21&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 </copyright>
+    <lastBuildDate>Wed, 03 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Dispatcher Servlet</title>
+      <link>http://localhost:1313/tags/dispatcher-servlet/</link>
+      <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/dispatcher-servlet/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Filter</title>
+      <link>http://localhost:1313/tags/filter/</link>
+      <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/filter/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Servlet</title>
+      <link>http://localhost:1313/tags/servlet/</link>
+      <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/servlet/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Servlet Container</title>
+      <link>http://localhost:1313/tags/servlet-container/</link>
+      <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/servlet-container/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Spring</title>
+      <link>http://localhost:1313/tags/spring/</link>
+      <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/spring/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Spring Boot</title>
+      <link>http://localhost:1313/tags/spring-boot/</link>
+      <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/spring-boot/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Thread Pool</title>
+      <link>http://localhost:1313/tags/thread-pool/</link>
+      <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/thread-pool/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>WAS</title>
+      <link>http://localhost:1313/tags/was/</link>
+      <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/was/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Web Server</title>
+      <link>http://localhost:1313/tags/web-server/</link>
+      <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/web-server/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>DB</title>
+      <link>http://localhost:1313/tags/db/</link>
+      <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/db/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>JPA</title>
+      <link>http://localhost:1313/tags/jpa/</link>
+      <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/jpa/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Lock</title>
+      <link>http://localhost:1313/tags/lock/</link>
+      <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/lock/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Transaction</title>
+      <link>http://localhost:1313/tags/transaction/</link>
+      <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/transaction/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
