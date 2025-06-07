@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FastAPI on Dandee&#39;s Portfolio</title>
+    <link>http://localhost:1313/tags/fastapi/</link>
+    <description>Recent content in FastAPI on Dandee&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 </copyright>
+    <lastBuildDate>Fri, 06 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/fastapi/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Burial DBMS: Client Dashboard with FastAPI, SQLite, and JWT Auth</title>
+      <link>http://localhost:1313/posts/burial_db/</link>
+      <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/burial_db/</guid>
+      <description>📋 Project Summary # Burial DBMS is a full-stack web application that serves as a digital platform for managing burial plans and client contracts. The system supports user authentication, slot management, payment processing, contract generation, and deceased information.
+This project was built using FastAPI, SQLite, and vanilla JS with plans to integrate full JWT authentication, session management, and PDF receipt downloads.
+GitHub Repository: github.com/yourname/burial-dbms
+🧭 Features # 🔐 JWT Authentication: Clients can securely log in and retain session state via tokens.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
