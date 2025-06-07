@@ -3,6 +3,7 @@ title: "MemorialDB: A Modern Cemetery Management System"
 date: 2024-04-03
 draft: false 
 description: "A Modern Cemetery Management System"
+categories: ["Projects"]
 # slug: "shortcodes"
 tags: ["Projects", "JavaScript", "Website", "Python", "SQL", "REST API", "DBMS"]
 # series: ["Projects"]

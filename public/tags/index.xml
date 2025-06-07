@@ -7,14 +7,74 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 </copyright>
-    <lastBuildDate>Wed, 03 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Achievement</title>
+      <link>http://localhost:1313/tags/achievement/</link>
+      <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/achievement/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>C&#43;&#43;</title>
       <link>http://localhost:1313/tags/c&#43;&#43;/</link>
-      <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/c&#43;&#43;/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Competition</title>
+      <link>http://localhost:1313/tags/competition/</link>
+      <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/competition/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ICpEP.se</title>
+      <link>http://localhost:1313/tags/icpep.se/</link>
+      <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/icpep.se/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Nationals</title>
+      <link>http://localhost:1313/tags/nationals/</link>
+      <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/nationals/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>http://localhost:1313/tags/programming/</link>
+      <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/programming/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Region III</title>
+      <link>http://localhost:1313/tags/region-iii/</link>
+      <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/region-iii/</guid>
       <description></description>
       
     </item>

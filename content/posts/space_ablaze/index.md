@@ -4,6 +4,7 @@ date: 2024-04-03
 draft: false 
 description: "2D Retro Survival Shooter Game written in C++ using RayLib Library"
 # slug: "shortcodes"
+categories: ["Projects"]
 tags: ["Projects", "C++", "Raylib", "Game Development"]
 # series: ["Projects"]
 # series_order: 8
