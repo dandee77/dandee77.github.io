@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Documentation on Dandee&#39;s Portfolio</title>
+    <link>http://localhost:1313/series/documentation/</link>
+    <description>Recent content in Documentation on Dandee&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 </copyright>
+    <lastBuildDate>Wed, 03 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/series/documentation/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>BurialDB: A Modern Cemetery Management System</title>
+      <link>http://localhost:1313/posts/burial_db/</link>
+      <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/burial_db/</guid>
+      <description>✨ Did you know? # This game was GameJam Plus | Asia &amp;amp; Ocenia Region: SEMI FINALIST🏆
+Github: https://github.com/dandee77/space-ablaze.git Itch.io: https://dandee77.itch.io/space-ablaze
+🚀 Project Overview # Space Ablaze is a 2D top-down survival shooter game developed using C++ and the Raylib graphics library. The game throws the player into a hostile space environment swarming with alien ships. The objective is simple: survive as long as possible while taking down waves of enemies.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

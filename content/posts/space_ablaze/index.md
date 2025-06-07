@@ -1,21 +1,16 @@
 ---
 title: "Space Ablaze: 2D Survival Shooter Game written in C++ using RayLib Library"
 date: 2024-04-03
-draft: false # 현재 작성 중이면 블로그에 안뜸
-description: "사용자의 요청이 서버로 전달되어 비즈니스 작업을 시작하기 전까지 어떤 과정을 거치는지 알아보자"
+draft: false 
+description: "2D Retro Survival Shooter Game written in C++ using RayLib Library"
 # slug: "shortcodes"
 tags: ["Projects", "C++", "Raylib", "Game Development"]
-# series: ["Documentation"]
+# series: ["Projects"]
 # series_order: 8
 ---
-<!-- width="550" -->
-<div style="text-align:center;">
-    <video autoplay muted loop playsinline>
-        <source src="image/0.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
-</div>
-<br>
+![Gameplay Screenshot](assets/1.png)
+## ✨ Did you know?
+**This game was GameJam Plus | Asia & Ocenia Region: SEMI FINALIST🏆**
 
 > Github: https://github.com/dandee77/space-ablaze.git
 <br>
@@ -25,8 +20,13 @@ tags: ["Projects", "C++", "Raylib", "Game Development"]
 
 **Space Ablaze** is a 2D top-down survival shooter game developed using **C++** and the **Raylib** graphics library. The game throws the player into a hostile space environment swarming with alien ships. The objective is simple: survive as long as possible while taking down waves of enemies. With retro arcade aesthetics, responsive controls, and adrenaline-fueled action, Space Ablaze delivers a bite-sized but addictive gameplay experience.
 
-![Gameplay Screenshot](image/1.png)
-
+<!-- width="550" -->
+<div style="text-align:center;">
+    <video autoplay muted loop playsinline>
+        <source src="assets/0.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div>
 <br>
 
 ## 🎮 Gameplay Features
@@ -47,6 +47,7 @@ tags: ["Projects", "C++", "Raylib", "Game Development"]
 | Assets           | Game assets from itch.io|
 | Build Tool       | CMake / g++             |
 | Platform         | Desktop (Windows/Linux) |
+<br>
 
 ## 🧠 Design Considerations
 
@@ -62,7 +63,7 @@ tags: ["Projects", "C++", "Raylib", "Game Development"]
 
 * **Game Window and Rendering Architecture**
 <div style="text-align:center;">
-    <img src="image/2.png"/>
+    <img src="assets/2.png"/>
 </div>
 The game window is initialized and managed through the Application class, defined in application.hpp. This class is responsible for setting up the core application lifecycle, including window creation, event handling, and the main game loop. It abstracts away platform-specific windowing logic to provide a clean and centralized entry point for the game runtime.
 
@@ -73,7 +74,7 @@ By abstracting rendering logic into game.cpp, the system achieves better maintai
 
 * **The Entity Class**
 <div style="text-align:center;">
-    <img src="image/3.png"/>
+    <img src="assets/3.png"/>
 </div>
 All entities in the system inherit from the abstract base class Entity. For example, the Player class represents the player character, while the Asteroid and Enemy classes represent other game objects. The Enemy class serves as a base for specialized enemy types, including LowLevelEnemy, MidLevelEnemy, and HighLevelEnemy.
 

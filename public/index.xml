@@ -10,35 +10,27 @@
     <lastBuildDate>Wed, 03 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>MemorialDB: A Modern Cemetery Management System</title>
+      <link>http://localhost:1313/posts/burial_db/</link>
+      <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/burial_db/</guid>
+      <description>GitHub: https://github.com/dandee77/Burial-DBMS.git Documentation: MemorialDB_Documentation
+🚀 Project Overview # BurialDB is a web-based Cemetery Management System built to improve the efficiency, accuracy, and accessibility of cemetery services. Traditional cemetery operations often suffer from manual processes, which can result in delayed transactions, mismanaged records, and lack of client visibility. BurialDB addresses these issues by offering a user-friendly digital solution for both clients and administrators.
+Clients can register, log in, and interact with their data through a personalized dashboard.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/burial_db/featured.webp" />
+    </item>
+    
+    <item>
       <title>Space Ablaze: 2D Survival Shooter Game written in C&#43;&#43; using RayLib Library</title>
       <link>http://localhost:1313/posts/space_ablaze/</link>
       <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/posts/space_ablaze/</guid>
-      <description>Your browser does not support the video tag. Github: https://github.com/dandee77/space-ablaze.git Itch.io: https://dandee77.itch.io/space-ablaze
-🚀 Project Overview # Space Ablaze is a 2D top-down survival shooter game developed using C++ and the Raylib graphics library. The game throws the player into a hostile space environment swarming with alien ships. The objective is simple: survive as long as possible while taking down waves of enemies. With retro arcade aesthetics, responsive controls, and adrenaline-fueled action, Space Ablaze delivers a bite-sized but addictive gameplay experience.</description>
+      <description>✨ Did you know? # This game was GameJam Plus | Asia &amp;amp; Ocenia Region: SEMI FINALIST🏆
+Github: https://github.com/dandee77/space-ablaze.git Itch.io: https://dandee77.itch.io/space-ablaze
+🚀 Project Overview # Space Ablaze is a 2D top-down survival shooter game developed using C++ and the Raylib graphics library. The game throws the player into a hostile space environment swarming with alien ships. The objective is simple: survive as long as possible while taking down waves of enemies.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/space_ablaze/featured..png" />
-    </item>
-    
-    <item>
-      <title>스프링(Spring) 뜯어보기 : 클라이언트의 요청은 서버에서 어떻게 처리될까?</title>
-      <link>http://localhost:1313/posts/spring_overall/</link>
-      <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/spring_overall/</guid>
-      <description>스프링 부트를 사용하다 보면 사실 스프링 내부에서 어떤 동작이 이루어지는지 모르더라도 원하는 비즈니스 로직 구현을 할 수 있다. 그렇기 때문에 쉽고 간편하게 서버 개발을 할 수 있지만, 결국 언젠가는 클라이언트의 요청이 정확히 어떤 방식으로 처리되는 것인지를 알아야 하는 때가 오게 되는 것 같다. 필자 또한 어느 순간부터 스프링 내부 구조와 데이터 전달/처리 과정을 공부해 봐야겠다는 필요성을 느끼게 되었고 이를 정리하는 글을 작성하게 되었다.
-우선 이 글에서 다루게 될 내용의 전체 모식도는 아래와 같다.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/spring_overall/featured.png" />
-    </item>
-    
-    <item>
-      <title>트랜잭션과 락 이해하기 : 데이터베이스 관리의 핵심, 동시성과 무결성의 균형잡기</title>
-      <link>http://localhost:1313/posts/transaction_lock/</link>
-      <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/transaction_lock/</guid>
-      <description>한 유명 레스토랑에서 새로운 예약 시스템을 도입하여 매일 오후 5시마다 다음 날 예약 손님 50명을 받기로 결정했다. 해당 서비스의 도입 첫날, 사람들은 마치 인기 가수의 콘서트 티켓팅을 하는 것처럼 5시만을 기다리고 있다가 동시에 예약 신청을 했고 순식간에 예약이 마감되었다. 그렇게 새로 도입한 시스템은 안정적으로 작동된 줄 알았지만, 가게 주인이 예약을 성공한 손님들의 리스트를 확인해 보니 처음 계획한 50명을 넘어서 68명의 손님이 예약되어 있었다! 가게에는 앉을 수 있는 자리가 한정되어 있고 준비된 재료도 제한되어 있기 때문에 어쩔 수 없이 가게 주인은 몇몇 손님들께 양해를 구하며 강제로 예약을 취소할 수밖에 없었다.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/transaction_lock/featured.jpg" />
     </item>
     
   </channel>

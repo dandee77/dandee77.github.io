@@ -3,7 +3,7 @@ title: "Dan’s Dev Hub 🚀"
 description: "Showcasing my projects, growth, and insights as a future engineer."
 ---
 
-I'm a 2nd-year Computer Engineering student at **Bulacan State University**, currently deep in my training arc — transitioning from C++ game development into full-stack web and mobile development.
+I'm a 3rd-year Computer Engineering student at **Bulacan State University**, currently deep in my training arc — transitioning from C++ game development into full-stack web and mobile development.
 
 I've always been passionate about building amazing things with code. With a strong foundation in programming — including **OOP**, **manual memory management**, and **data structures & algorithms** — I'm now expanding into **web technologies**, **mobile apps**, and **AI-powered systems**.
 

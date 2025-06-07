@@ -20,21 +20,11 @@
     </item>
     
     <item>
-      <title>Dispatcher Servlet</title>
-      <link>http://localhost:1313/tags/dispatcher-servlet/</link>
+      <title>DBMS</title>
+      <link>http://localhost:1313/tags/dbms/</link>
       <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/dispatcher-servlet/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Filter</title>
-      <link>http://localhost:1313/tags/filter/</link>
-      <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/filter/</guid>
+      <guid>http://localhost:1313/tags/dbms/</guid>
       <description></description>
       
     </item>
@@ -50,11 +40,31 @@
     </item>
     
     <item>
+      <title>JavaScript</title>
+      <link>http://localhost:1313/tags/javascript/</link>
+      <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/javascript/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Projects</title>
       <link>http://localhost:1313/tags/projects/</link>
       <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/projects/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>http://localhost:1313/tags/python/</link>
+      <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/python/</guid>
       <description></description>
       
     </item>
@@ -70,111 +80,31 @@
     </item>
     
     <item>
-      <title>Servlet</title>
-      <link>http://localhost:1313/tags/servlet/</link>
+      <title>REST API</title>
+      <link>http://localhost:1313/tags/rest-api/</link>
       <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/servlet/</guid>
+      <guid>http://localhost:1313/tags/rest-api/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Servlet Container</title>
-      <link>http://localhost:1313/tags/servlet-container/</link>
+      <title>SQL</title>
+      <link>http://localhost:1313/tags/sql/</link>
       <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/servlet-container/</guid>
+      <guid>http://localhost:1313/tags/sql/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Spring</title>
-      <link>http://localhost:1313/tags/spring/</link>
+      <title>Website</title>
+      <link>http://localhost:1313/tags/website/</link>
       <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/spring/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Spring Boot</title>
-      <link>http://localhost:1313/tags/spring-boot/</link>
-      <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/spring-boot/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Thread Pool</title>
-      <link>http://localhost:1313/tags/thread-pool/</link>
-      <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/thread-pool/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>WAS</title>
-      <link>http://localhost:1313/tags/was/</link>
-      <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/was/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Web Server</title>
-      <link>http://localhost:1313/tags/web-server/</link>
-      <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/web-server/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>DB</title>
-      <link>http://localhost:1313/tags/db/</link>
-      <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/db/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>JPA</title>
-      <link>http://localhost:1313/tags/jpa/</link>
-      <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/jpa/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Lock</title>
-      <link>http://localhost:1313/tags/lock/</link>
-      <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/lock/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Transaction</title>
-      <link>http://localhost:1313/tags/transaction/</link>
-      <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/transaction/</guid>
+      <guid>http://localhost:1313/tags/website/</guid>
       <description></description>
       
     </item>
