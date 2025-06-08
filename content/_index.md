@@ -29,13 +29,13 @@ description: "Showcasing my projects, growth, and insights as a future engineer.
 
 @media (max-width: 1024px) {
   .social-icons {
-    margin-left: 38%;
+    margin-left: 39%;
   }
 }
 
 @media (max-width: 600px) {
   .social-icons {
-    margin-left: 33%;
+    margin-left: 30%;
   }
 }
 </style>
