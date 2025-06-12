@@ -46,11 +46,5 @@ I'm a 3rd-year Computer Engineering student at **Bulacan State University**, cur
 
 I've always been passionate about building amazing things with code. With a strong foundation in **OOP**, **manual memory management**, and **data structures & algorithms**, I'm now expanding into **web technologies**, **mobile apps**, and **AI-powered systems**.
 
-<div style="margin: 24px 0;">
-  <a href="Dandee-N.-Galang.pdf" target="_blank" style="display: inline-block; padding: 10px 18px; background: #2193b0; color: white; text-decoration: none; font-weight: bold; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); transition: background 0.3s;">
-    📄 View Resume
-  </a>
-</div>
-
 ---
 
