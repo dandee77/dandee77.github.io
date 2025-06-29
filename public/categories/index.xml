@@ -7,7 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 </copyright>
-    <lastBuildDate>Fri, 09 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/categories/projects/</link>
+      <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/projects/</guid>
+      <description>🛠️ Explore My Work
+Welcome to the Projects page — a curated collection of the things I’ve built, broken, and rebuilt. From full-stack web apps and AI experiments to game development and tooling, each project reflects hands-on problem solving and a drive to push technical boundaries.
+Dive into individual write-ups to see design decisions, architecture breakdowns, challenges faced, and the impact of each build. This is where ideas turn into real, working code.</description>
+      
+    </item>
     
     <item>
       <title>Milestones</title>
@@ -22,14 +34,12 @@ Each milestone documents not just what was achieved, but why it mattered — off
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>http://localhost:1313/categories/projects/</link>
-      <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
+      <title>\[&#34;Projects&#34;]</title>
+      <link>http://localhost:1313/categories/%5Cprojects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/projects/</guid>
-      <description>🛠️ Explore My Work
-Welcome to the Projects page — a curated collection of the things I’ve built, broken, and rebuilt. From full-stack web apps and AI experiments to game development and tooling, each project reflects hands-on problem solving and a drive to push technical boundaries.
-Dive into individual write-ups to see design decisions, architecture breakdowns, challenges faced, and the impact of each build. This is where ideas turn into real, working code.</description>
+      <guid>http://localhost:1313/categories/%5Cprojects/</guid>
+      <description></description>
       
     </item>
     
